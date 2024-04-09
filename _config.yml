@@ -94,7 +94,7 @@ theme_mode: # [light | dark]
 img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/commons/avatar.jpg"
+avatar: /commons/spc.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -141,7 +141,7 @@ pwa:
     # Usually its value is the `baseurl` of another website that
     # shares the same domain name as the current website.
     deny_paths:
-      # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
+    # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
 paginate: 10
 
@@ -202,7 +202,7 @@ compress_html:
   profile: false
   blanklines: false
   ignore:
-    envs: [development]
+    envs: [ development ]
 
 exclude:
   - "*.gem"
@@ -215,7 +215,7 @@ exclude:
   - package*.json
 
 jekyll-archives:
-  enabled: [categories, tags]
+  enabled: [ categories, tags ]
   layouts:
     category: category
     tag: tag
