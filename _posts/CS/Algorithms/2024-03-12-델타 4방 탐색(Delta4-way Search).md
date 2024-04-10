@@ -1,3 +1,19 @@
+---
+title: 델타 4방 탐색 (Delta 4-way Search)
+description: Delta 4-directional search refers to searching adjacent cells in four directions (up, down, left, and right) from a given position in a grid or matrix.
+author: subeenjeon
+date: 2024-03-12
+categories: [ Algorithms ]
+tags: [ Algorithms, 알고리즘 ]
+pin: true
+math: true
+mermaid: true
+toc: true
+image:
+#  path: /commons/devices-mockup.png
+#  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
+#  alt: Responsive rendering of Chirpy theme on multiple devices.
+---
 
 # ◼︎ 델타 4방 탐색 (Delta 4-way Search)
 

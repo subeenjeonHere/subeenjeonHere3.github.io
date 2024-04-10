@@ -1,6 +1,6 @@
 ---
 title: 이분 탐색(Binary Search)
-#description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
+description: Binary search algorithm finds the position of a target value within a sorted array.
 author: subeenjeon
 date: 2024-03-12
 categories: [ Algorithms ]
