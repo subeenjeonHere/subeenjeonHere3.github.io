@@ -15,7 +15,7 @@ image:
 #  alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-# ☻ 이분탐색 (Binary Search)
+# ◼︎ 이분탐색 (Binary Search)
 
 ---
 
