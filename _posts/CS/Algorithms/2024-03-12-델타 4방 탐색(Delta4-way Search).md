@@ -1,30 +1,11 @@
----
-title: 델타 4방 탐색 (Delta 4-way Search)
-#description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
-author: subeenjeon
-date: 2024-03-12
-categories: [ Algorithms ]
-tags: [ Algorithms, 알고리즘 ]
-pin: true
-math: true
-mermaid: true
-toc: true
-image:
-#  path: /commons/devices-mockup.png
-#  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-#  alt: Responsive rendering of Chirpy theme on multiple devices.
----
 
-
-# ☻ 델타 4방 탐색 (Delta 4-way Search)
+# ◼︎ 델타 4방 탐색 (Delta 4-way Search)
 
 2차원 배열에서 상하좌우 방향으로 이동하면서 데이터를 탐색하는 알고리즘
 
 ---
 
 ## Snippets
-
-![image](https://github.com/subeenjeonHere/subeenjeonHere.github.io/assets/145312273/5c3e741e-3841-4a7b-837e-b2773969e5c6)
 
 ```java
 public class Main {
