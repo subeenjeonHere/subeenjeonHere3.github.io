@@ -1,7 +1,9 @@
 ---
 title: 이분 탐색(Binary Search)
 description: Binary search algorithm finds the position of a target value within a sorted array.
-author: subeenjeon
+author:
+  name: subeenjeon
+  link: https://subeenjeonhere.github.io/
 date: 2024-03-12
 categories: [ Algorithms ]
 tags: [ Algorithms, 알고리즘 ]
