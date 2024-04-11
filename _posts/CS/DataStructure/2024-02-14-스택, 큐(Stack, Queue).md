@@ -3,7 +3,7 @@ title: 스택, 큐(Stack, Queue)
 description: DataStructure - Stack, Queue
 author: subeenjeon
 date: 2024-02-14
-categories: [ DataStructure ]
+categories: [CS, DataStructure ]
 tags: [ DataStructure, 자료구조 ]
 pin: true
 math: true

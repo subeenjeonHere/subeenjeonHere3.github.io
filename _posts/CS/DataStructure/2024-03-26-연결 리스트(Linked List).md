@@ -3,7 +3,7 @@ title: 연결 리스트 (Linked List)
 description: DataStructure - LinkedList
 author: subeenjeon
 date: 2024-03-26
-categories: [ DataStructure ]
+categories: [CS, DataStructure ]
 tags: [ DataStructure, 자료구조 ]
 pin: true
 math: true
