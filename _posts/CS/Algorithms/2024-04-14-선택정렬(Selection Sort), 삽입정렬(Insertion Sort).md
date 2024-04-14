@@ -16,9 +16,6 @@ mermaid: true
 
 # 선택 정렬(Selection Sort), 삽입 정렬 (Insertion Sort)
 
-태그: ★ 알고리즘
-날짜: 2024년 4월 11일 오전 7:19
-상태: 진행 중
 
 ---
 
