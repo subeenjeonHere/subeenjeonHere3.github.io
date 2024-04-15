@@ -228,5 +228,5 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-plugins:
-  - jekyll-toc
+#plugins:
+#  - jekyll-toc
