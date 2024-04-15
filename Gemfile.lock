@@ -68,6 +68,9 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-toc (0.18.0)
+      jekyll (>= 3.9)
+      nokogiri (~> 1.12)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
@@ -118,6 +121,7 @@ DEPENDENCIES
   html-proofer (~> 4.4)
   http_parser.rb (~> 0.6.0)
   jekyll-theme-chirpy!
+  jekyll-toc
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1.1)
