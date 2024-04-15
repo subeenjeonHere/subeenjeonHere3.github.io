@@ -229,5 +229,5 @@ jekyll-archives:
     category: /categories/:name/
 
 # toc 설정
-#plugins:
-#  - jekyll-toc
+plugins:
+  - jekyll-toc
