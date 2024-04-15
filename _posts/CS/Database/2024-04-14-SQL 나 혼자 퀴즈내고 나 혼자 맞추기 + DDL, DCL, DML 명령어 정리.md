@@ -3,7 +3,7 @@ title: SQL 나 혼자 퀴즈내고 나 혼자 맞추기
 description: DDL, DML, DCL 기본 명령어 재정비
 author: subeenjeon
 date: 2024-04-14
-categories: [ Database ]
+categories: [CS, Database]
 tags: [ Database ]
 pin: true
 math: true
